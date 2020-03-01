@@ -1,7 +1,7 @@
 <?php
 
-$email = "witotoa@gmail.com";
-$address = "1B2br9TmDE55rSDKypifZjDih7gcBM2PV3";
+$email = "seoumsan@gmail.com";
+$address = "15Q12GLPuo4pNCZDaQpCpau7itPcFeeiLg";
 
 /* Link Pass :    https://semawur.com/0dGrBL7wm0   */
 
